@@ -2,13 +2,19 @@
 
 <p id="description">Welcome to Lignum Pizza App! This is a web application built using Next.js 13 that allows you to explore different aspects of pizzas including a list of pizzas their ingredients and various operations. The backend provides complete CRUD functionality to manage these aspects.</p>
 
+<h2>Project Screenshots:</h2>
+
+<img src="https://github.com/dans100/lignum-pizza/blob/main/public/assets/app_screen.png" alt="project-screenshot" width="813" height="447/">
+
+  
+  
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
 
-- Pizza List: The homepage displays a list of pizzas available allowing you to select and view details about each pizza.
-- Ingredient List: The second tab presents a similar list but this time showcasing the ingredients used in each pizza.
-- Operation List: The last tab provides a list of operations giving insights into CRUD actions available for managing pizzas and ingredients.
+*   Pizza List: The homepage displays a list of pizzas available allowing you to select and view details about each pizza.
+*   Ingredient List: The second tab presents a similar list but this time showcasing the ingredients used in each pizza.
+*   Operation List: The last tab provides a list of operations giving insights into CRUD actions available for managing pizzas and ingredients.
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -40,14 +46,16 @@ npm run dev
 
 <p>6. Open your web browser and go to http://localhost:3000 to access the app.</p>
 
+  
+  
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
 
-- React
-- Node.js
-- MongoDB
-- TypeScript
+*   React
+*   Node.js
+*   MongoDB
+*   TypeScript
 
 <h2>🛡️ License:</h2>
 
