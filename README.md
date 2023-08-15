@@ -21,7 +21,7 @@ Here're some of the project's best features:
 <p>1. Clone this repository to your local machine:</p>
 
 ```
-git clone https://github.com/yourusername/lignum-pizza-app.git
+git clone https://github.com/dans100/lignum-pizza.git
 ```
 
 <p>2. Navigate to the project directory:</p>
