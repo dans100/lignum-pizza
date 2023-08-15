@@ -2,6 +2,10 @@
 
 <p id="description">Welcome to Lignum Pizza App! This is a web application built using Next.js 13 that allows you to explore different aspects of pizzas including a list of pizzas their ingredients and various operations. The backend provides complete CRUD functionality to manage these aspects.</p>
 
+<h2>Project Screenshots:</h2>
+
+<img src="https://github.com/dans100/lignum-pizza/blob/main/public/assets/app_screen.png" alt="project-screenshot" width="813" height="447/">
+
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
