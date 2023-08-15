@@ -1,0 +1,9 @@
+.card {
+  flex-basis: calc(33.33% - 50px);
+  margin: 5px;
+  padding: 20px;
+}
+
+.card p {
+  margin-top: 20px;
+}

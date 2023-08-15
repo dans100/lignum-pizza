@@ -1,0 +1,16 @@
+.btn_details {
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: #8e3b13;
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.3s linear;
+}
+
+.btn_details:hover {
+  background-color: white;
+  color: #8e3b13;
+}
